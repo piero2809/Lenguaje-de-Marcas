@@ -1,0 +1,18 @@
+<?xml version ="1.0" encoding = "UTF-8"?>
+
+<!--En este docuemnto voy a describir a un ser humano-->
+
+    <personaje>
+    <!--Aqui irán las etiquetas-->
+
+        <nombre id="propio">Piero Funes</nombre>
+        <nombre id="mote">PF</nombre>
+
+        <edad medida="años">20</edad>
+        
+        <profesion>Programador</profesion>
+
+    </personaje>
+
+
+</xml>
