@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persona>
+  <nombre>Piero </nombre>
+  <apellido1>Funes</apellido1>
+  <apellido2>Larios</apellido2>
+  <telefonos>
+    <movil>62242525</movil>
+    <fijo>96372151</fijo>
+  </telefonos>
+  <emails>
+    <personal>pierofl2005@gmail.com</personal>
+    <empresa>piero@jocarsa.com</empresa>
+  </emails>
+</persona>
