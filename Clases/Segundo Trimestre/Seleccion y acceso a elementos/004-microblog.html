@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Javascript</title>
+</head>
+<body>
+    <header><h1>El blog de Piero Funes</h1></header>
+    <main></main>
+    <footer>(c) 2025 Piero Funes Larios</footer>
+    <script> 
+     const articulos = [
+        "Primer articulo", "Segundo artículo", "Tercer artículo"
+     ];
+     const contenedor = document.querySelector ("main");
+     for (let i = 0;i<articulos.length;i++){
+        contenedor.innerHTML += "<h3>" +articulos[i]+"<h3>";
+     }
+    </script>
+</body>
+</html>
