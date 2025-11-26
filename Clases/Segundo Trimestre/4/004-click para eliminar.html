@@ -10,6 +10,9 @@
         let fila = document.createElement("tr")
         fila.innerHTML = "<td>Prueba</td><td>Prueba</td><td>Prueba</td>"
       	tabla.appendChild(fila)
+        fila.onclick = function(){	// Cuando hago click en la fila
+        	this.remove()							// La elimino
+        }
       }
       
     </script>
