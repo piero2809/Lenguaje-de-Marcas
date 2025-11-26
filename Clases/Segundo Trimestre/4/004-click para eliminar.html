@@ -13,7 +13,10 @@
         fila.onclick = function(){	// Cuando hago click en la fila
         	this.remove()							// La elimino
         }
-      }
+        fila.addEventListener("click",function(){
+        	this.remove()
+        })
+       }
       
     </script>
   </body>
