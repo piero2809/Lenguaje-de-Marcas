@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persona>
+   <nombre>Piero Gabriel</nombre>
+   <apellido>Funes Larios</apellido> 
+   <telefonos>
+      <telefono>123456789</telefono>
+      <telefono>987654321</telefono>
+      ...
+   </telefonos>
+</persona>
